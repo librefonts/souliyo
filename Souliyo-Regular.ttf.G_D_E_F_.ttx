@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GDEF>
+    <Version value="1.0"/>
+    <GlyphClassDef Format="2">
+      <ClassDef glyph="" class="1"/>
+      <ClassDef glyph="#1" class="1"/>
+      <ClassDef glyph="#10" class="1"/>
+      <ClassDef glyph="#11" class="1"/>
+      <ClassDef glyph="#12" class="1"/>
+      <ClassDef glyph="#13" class="1"/>
+      <ClassDef glyph="#14" class="1"/>
+      <ClassDef glyph="#15" class="1"/>
+      <ClassDef glyph="#16" class="1"/>
+      <ClassDef glyph="#17" class="1"/>
+      <ClassDef glyph="#18" class="1"/>
+      <ClassDef glyph="#19" class="1"/>
+      <ClassDef glyph="#2" class="1"/>
+      <ClassDef glyph="#20" class="1"/>
+      <ClassDef glyph="#21" class="1"/>
+      <ClassDef glyph="#22" class="1"/>
+      <ClassDef glyph="#23" class="1"/>
+      <ClassDef glyph="#24" class="1"/>
+      <ClassDef glyph="#25" class="1"/>
+      <ClassDef glyph="#26" class="1"/>
+      <ClassDef glyph="#27" class="1"/>
+      <ClassDef glyph="#28" class="1"/>
+      <ClassDef glyph="#29" class="1"/>
+      <ClassDef glyph="#3" class="1"/>
+      <ClassDef glyph="#30" class="1"/>
+      <ClassDef glyph="#31" class="1"/>
+      <ClassDef glyph="#32" class="1"/>
+      <ClassDef glyph="#33" class="1"/>
+      <ClassDef glyph="#34" class="1"/>
+      <ClassDef glyph="#35" class="1"/>
+      <ClassDef glyph="#36" class="1"/>
+      <ClassDef glyph="#37" class="1"/>
+      <ClassDef glyph="#38" class="1"/>
+      <ClassDef glyph="#39" class="1"/>
+      <ClassDef glyph="#4" class="1"/>
+      <ClassDef glyph="#40" class="1"/>
+      <ClassDef glyph="#41" class="1"/>
+      <ClassDef glyph="#42" class="1"/>
+      <ClassDef glyph="#43" class="1"/>
+      <ClassDef glyph="#44" class="1"/>
+      <ClassDef glyph="#45" class="1"/>
+      <ClassDef glyph="#46" class="1"/>
+      <ClassDef glyph="#47" class="1"/>
+      <ClassDef glyph="#48" class="1"/>
+      <ClassDef glyph="#49" class="1"/>
+      <ClassDef glyph="#5" class="1"/>
+      <ClassDef glyph="#50" class="1"/>
+      <ClassDef glyph="#51" class="1"/>
+      <ClassDef glyph="#52" class="1"/>
+      <ClassDef glyph="#53" class="1"/>
+      <ClassDef glyph="#54" class="1"/>
+      <ClassDef glyph="#55" class="1"/>
+      <ClassDef glyph="#56" class="1"/>
+      <ClassDef glyph="#57" class="1"/>
+      <ClassDef glyph="#58" class="1"/>
+      <ClassDef glyph="#59" class="1"/>
+      <ClassDef glyph="#6" class="1"/>
+      <ClassDef glyph="#60" class="1"/>
+      <ClassDef glyph="#61" class="1"/>
+      <ClassDef glyph="#62" class="1"/>
+      <ClassDef glyph="#63" class="1"/>
+      <ClassDef glyph="#64" class="1"/>
+      <ClassDef glyph="#65" class="1"/>
+      <ClassDef glyph="#66" class="1"/>
+      <ClassDef glyph="#67" class="1"/>
+      <ClassDef glyph="#68" class="1"/>
+      <ClassDef glyph="#69" class="1"/>
+      <ClassDef glyph="#7" class="1"/>
+      <ClassDef glyph="#8" class="1"/>
+      <ClassDef glyph="#9" class="1"/>
+      <ClassDef glyph=".notdef" class="1"/>
+      <ClassDef glyph=".null" class="1"/>
+      <ClassDef glyph="ampersand" class="1"/>
+      <ClassDef glyph="asterisk" class="1"/>
+      <ClassDef glyph="at" class="1"/>
+      <ClassDef glyph="colon" class="1"/>
+      <ClassDef glyph="comma" class="1"/>
+      <ClassDef glyph="dollar" class="1"/>
+      <ClassDef glyph="eight" class="1"/>
+      <ClassDef glyph="equal" class="1"/>
+      <ClassDef glyph="exclam" class="1"/>
+      <ClassDef glyph="five" class="1"/>
+      <ClassDef glyph="four" class="1"/>
+      <ClassDef glyph="greater" class="1"/>
+      <ClassDef glyph="hyphen" class="1"/>
+      <ClassDef glyph="less" class="1"/>
+      <ClassDef glyph="nine" class="1"/>
+      <ClassDef glyph="nonmarkingreturn" class="1"/>
+      <ClassDef glyph="numbersign" class="1"/>
+      <ClassDef glyph="one" class="1"/>
+      <ClassDef glyph="parenleft" class="1"/>
+      <ClassDef glyph="parenright" class="1"/>
+      <ClassDef glyph="percent" class="1"/>
+      <ClassDef glyph="period" class="1"/>
+      <ClassDef glyph="plus" class="1"/>
+      <ClassDef glyph="question" class="1"/>
+      <ClassDef glyph="quotedbl" class="1"/>
+      <ClassDef glyph="quotesingle" class="1"/>
+      <ClassDef glyph="semicolon" class="1"/>
+      <ClassDef glyph="seven" class="1"/>
+      <ClassDef glyph="six" class="1"/>
+      <ClassDef glyph="slash" class="1"/>
+      <ClassDef glyph="space" class="1"/>
+      <ClassDef glyph="three" class="1"/>
+      <ClassDef glyph="two" class="1"/>
+      <ClassDef glyph="zero" class="1"/>
+    </GlyphClassDef>
+    <LigCaretList>
+      <Coverage Format="2">
+      </Coverage>
+      <!-- LigGlyphCount=0 -->
+    </LigCaretList>
+  </GDEF>
+
+</ttFont>

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-217"/>
+    <underlineThickness value="150"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+      <psName name="#1" psName=""/>
+      <psName name="#10" psName=""/>
+      <psName name="#11" psName=""/>
+      <psName name="#12" psName=""/>
+      <psName name="#13" psName=""/>
+      <psName name="#14" psName=""/>
+      <psName name="#15" psName=""/>
+      <psName name="#16" psName=""/>
+      <psName name="#17" psName=""/>
+      <psName name="#18" psName=""/>
+      <psName name="#19" psName=""/>
+      <psName name="#2" psName=""/>
+      <psName name="#20" psName=""/>
+      <psName name="#21" psName=""/>
+      <psName name="#22" psName=""/>
+      <psName name="#23" psName=""/>
+      <psName name="#24" psName=""/>
+      <psName name="#25" psName=""/>
+      <psName name="#26" psName=""/>
+      <psName name="#27" psName=""/>
+      <psName name="#28" psName=""/>
+      <psName name="#29" psName=""/>
+      <psName name="#3" psName=""/>
+      <psName name="#30" psName=""/>
+      <psName name="#31" psName=""/>
+      <psName name="#32" psName=""/>
+      <psName name="#33" psName=""/>
+      <psName name="#34" psName=""/>
+      <psName name="#35" psName=""/>
+      <psName name="#36" psName=""/>
+      <psName name="#37" psName=""/>
+      <psName name="#38" psName=""/>
+      <psName name="#39" psName=""/>
+      <psName name="#4" psName=""/>
+      <psName name="#40" psName=""/>
+      <psName name="#41" psName=""/>
+      <psName name="#42" psName=""/>
+      <psName name="#43" psName=""/>
+      <psName name="#44" psName=""/>
+      <psName name="#45" psName=""/>
+      <psName name="#46" psName=""/>
+      <psName name="#47" psName=""/>
+      <psName name="#48" psName=""/>
+      <psName name="#49" psName=""/>
+      <psName name="#5" psName=""/>
+      <psName name="#50" psName=""/>
+      <psName name="#51" psName=""/>
+      <psName name="#52" psName=""/>
+      <psName name="#53" psName=""/>
+      <psName name="#54" psName=""/>
+      <psName name="#55" psName=""/>
+      <psName name="#56" psName=""/>
+      <psName name="#57" psName=""/>
+      <psName name="#58" psName=""/>
+      <psName name="#59" psName=""/>
+      <psName name="#6" psName=""/>
+      <psName name="#60" psName=""/>
+      <psName name="#61" psName=""/>
+      <psName name="#62" psName=""/>
+      <psName name="#63" psName=""/>
+      <psName name="#64" psName=""/>
+      <psName name="#65" psName=""/>
+      <psName name="#66" psName=""/>
+      <psName name="#67" psName=""/>
+      <psName name="#68" psName=""/>
+      <psName name="#69" psName=""/>
+      <psName name="#7" psName=""/>
+      <psName name="#8" psName=""/>
+      <psName name="#9" psName=""/>
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+      <psName name=""/>
+    </extraNames>
+  </post>
+
+</ttFont>
