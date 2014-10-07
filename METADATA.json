@@ -1,0 +1,24 @@
+{
+  "name": "Souliyo Unicode",
+  "designer": "Multiple Designers",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 13342,
+  "fonts": [
+    {
+      "name": "Souliyo Unicode",
+      "style": "normal",
+      "weight": 400,
+      "filename": "SouliyoUnicode-Regular.ttf",
+      "postScriptName": "SouliyoUnicode",
+      "fullName": "Souliyo Unicode",
+      "copyright": "Typeface (c) (your company). 2011. All Rights Reserved"
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-07"
+}

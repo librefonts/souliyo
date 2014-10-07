@@ -1,0 +1,28 @@
+Fonts
+  Font:
+    Common name: Souliyo Unicode
+    Sub family: Normal
+    Weight: normal
+    Fixed width: no
+    Fixed sizes: yes
+    Copyright: Typeface © (your company). 2011. All Rights Reserved
+    Version: Version 1.00 December 29, 2011, initial release
+    Glyph count: 106
+    Character count: 98
+    Orthographies:
+        Orthography:
+          Common name: Subset latin
+          Support level: fragmentary
+          Percent coverage: 15
+        Orthography:
+          Common name: Subset cyrillic-menu
+          Support level: fragmentary
+          Percent coverage: 33
+        Orthography:
+          Common name: Subset vietnamese-menu
+          Support level: fragmentary
+          Percent coverage: 30
+        Orthography:
+          Common name: Subset greek-menu
+          Support level: fragmentary
+          Percent coverage: 23
